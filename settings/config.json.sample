@@ -1,6 +1,6 @@
 {
   "token": "mfa.tWaSHf2wQVSzJjLho5jYd_9lDg5ecDsKvwR662W_ms9rHy9--ulMDCt41vDDV0eafY9f6SZBWW-DPSncQha8",
-  "cmd_prefix": ">",
+  "cmd_prefix": "^",
   "customcmd_prefix": ".",
   "bot_identifier": ":robot:"
 }
